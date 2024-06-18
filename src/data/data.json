@@ -1,0 +1,191 @@
+{
+  "Header": {
+    "title": "UniFi",
+    "paragraph": "Welcome to UniFi, your ultimate guide to discovering the perfect IT degree program at private universities in Sri Lanka. "
+  },
+  "About": {
+    "paragraph": "At UniFi, our mission is to empower A/L students in Sri Lanka with the tools and insights they need to choose the right IT degree program. We combine cutting-edge technology with comprehensive data analysis to provide personalized, relevant recommendations.",
+    "Why": [
+      "Tailored Recommendations",
+      "Comprehensive Data Analysis",
+      "Advanced Technology",
+      "Explore Multiple Options"
+    ],
+    "Why2": [
+      "User-Friendly Interface",
+      "Continuous Support",
+      "Real-Time Updates",
+      "Expert-Driven Insights"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Topic Assessment",
+      "text": "Submitted on 2023/02/25",
+      "link": "https://docs.google.com/document/d/1B0bF_g-Bw2ha42QGPsokWFgFY1tOpQbv/edit?usp=drive_link&ouid=112724535399449871160&rtpof=true&sd=true"
+
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Project Charter",
+      "text": "Submitted on 2023/02/25",
+      "link":"https://drive.google.com/drive/folders/1lDa7cDqJCqZQi5N_3aXsUQ9UShPkQ0dc?usp=sharing"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Project Proposal",
+      "text": "Submitted on 2023/03/22",
+      "link" : "https://drive.google.com/drive/folders/1e_WvkxpLBTuFFwbnbOXDlF2TuP6W2Ez0?usp=sharing"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Status Documents I",
+      "text": "Submitted on 2023/07/05",
+      "link":"https://drive.google.com/drive/folders/1J0tt1ylVQggF2wUqnJPzYJGUTVVndbdC?usp=sharing"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Status Documents II",
+      "text": "Submitted on 2023/07/05",
+      "link":"https://drive.google.com/drive/folders/1f9g5cWWcq5RornWBSLkM9atp2d9vSvdA?usp=sharing"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Research Paper",
+      "text": "Yet to be submitted, link will be updated soon.",
+      "link":"https://drive.google.com/drive/folders/1WFsMB0CH6f6-5NOIiq02p_gE8NgUZbfX?usp=drive_link"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/asi.jpg",
+      "name": "Asiru Rathnayaka",
+      "role" : "Undergraduate",
+      "uniname" : "SLIIT | Sri Lanka Institute of Information Technology",
+      "department" : "Information Technology",
+      "likdinurl":"",
+      "job": "mails2asiru@gmail.com"
+    },
+    {
+      "img": "img/team/sath.jpg",
+      "name": "Sathmi Jayasuriya",
+      "job": "sathmijayasuriya@gmail.com"
+    },
+    {
+      "img": "img/team/para.jpg",
+      "name": "Paranga wickramasinghe",
+      "job": "Parangawickramasinghe@gmail.com"
+    }
+    ,
+    {
+      "img": "img/team/manorimadam.jpg",
+      "name": "Manori Gamage",
+      "job": "Supervisor"
+    }
+  ],
+  "Contact": {
+    "address": "SLIIT",
+    "phone": "+94 705290345",
+    "email": "unifi@gmail.com",
+    "facebook": "unifi.com",
+    "twitter": "unifi.com",
+    "youtube": "unifi.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Personalized Suggestions",
+      "text": "Using a random forest classifier, we suggest degree categories that match your profile, providing a matching percentage for each option.Receive a list of degree programs within broader categories like IT, Computer Science, Cyber Security, and more."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Eye Tracking Analytics",
+      "text": "Enhance the relevance of your degree recommendations with our eye-tracking component. By analyzing your interactions and preferences, we refine our suggestions to better match your interests and needs."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "OpenAI support",
+      "text": "Get personalized assistance when filling out your profile with our OpenAI-powered input fields. Based on your existing information, OpenAI recommends inputs that ensure your profile is as accurate and complete as possible, improving the relevance of our degree recommendations."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Profile Creation",
+      "text": "Start by creating your profile and providing information about your A/L stream, interests, skills, and location preferences.Our system compares your profile with data from past graduates, collected through surveys, interviews, and workplace visits."
+    }
+  ],
+  "ProjectScope": [
+    {
+      "title": "Research Problem",
+      "description": "Choosing the right IT degree program is challenging for A/L students in Sri Lanka, as it greatly impacts their future academic and professional success.",
+      "solutions": "Research Problem Solution",
+      "solutionDescribe" : "Our solution involves leveraging advanced technologies like machine learning (specifically random forest classifiers) and eye-tracking analytics to analyze student profiles comprehensively. By suggesting IT degree categories aligned with their interests and academic backgrounds, we aim to alleviate decision-making challenges post A/L education.",
+      "ResearchObjectives":"To assist A/L students in Sri Lanka by providing personalized IT degree program recommendations, enhancing decision-making through data analysis and advanced technologies.",
+      "MainResearchObjectives" : "",
+      "method" : ""
+    }
+  
+  ],
+  "Technologies": [
+    {
+      "img": "img/techs/next.png",
+      "title": "Next.js"    },
+    {
+      "img": "img/techs/tensorflow.jpg",
+      "title": "Tensor Flow"    },
+    {
+      "img": "img/techs/python.png",
+      "title": "Python"
+    },
+    {
+      "img": "img/techs/firebasse.jpg",
+      "title": "Firebase"    }
+  ]
+}
